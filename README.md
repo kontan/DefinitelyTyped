@@ -57,6 +57,7 @@ List of Definitions
 * [glDatePicker](http://glad.github.com/glDatePicker/) (by [D�niel Tar](https://github.com/qcz))
 * [GreenSock Animation Platform (GSAP)](http://www.greensock.com/get-started-js/) (by [Robert S.](https://github.com/codeBelt))
 * [GoogleMaps](https://developers.google.com/maps/) (by [Esben Nepper](https://github.com/eNepper))
+* [grunt](http://gruntjs.com/) (by [Kon](http://phyzkit.net/))
 * [Hammer.js](http://eightmedia.github.com/hammer.js/) (by [Boris Yankov](https://github.com/borisyankov))
 * [Handlebars](http://handlebarsjs.com/) (by [Boris Yankov](https://github.com/borisyankov))
 * [Highcharts](http://www.highcharts.com/) (by [damianog](https://github.com/damianog))
